@@ -24,4 +24,5 @@
     <string name="dot">.</string>
 
     <string name="copied">Copied %s to clipboard</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

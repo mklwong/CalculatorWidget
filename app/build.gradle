@@ -41,6 +41,7 @@ dependencies {
     implementation 'com.crashlytics.sdk.android:crashlytics:2.9.8'
 
     implementation 'com.jaredrummler:colorpicker-compat:1.0.5'
+    implementation 'com.google.android.material:material:1.0.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
